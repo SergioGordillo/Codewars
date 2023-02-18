@@ -1,5 +1,3 @@
-
-
 function squareSum(numbers) {
     if(Array.isArray(numbers)){
     let i = 0;
