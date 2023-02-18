@@ -44,4 +44,4 @@ Now, let's see an example to better understand how `reduce()` works:
 
 In this example, we start with an array of numbers `[1, 2, 3, 4, 5]` and we want to calculate the sum of all the elements. We use the `reduce()` method to iteratively add each element to the accumulator and return the accumulated sum as the new accumulator. The initial value of accumulator is 0. The final output is the accumulated sum, which is 15.
 
-Did you like it? You can follow me on my professional Twitter (https://twitter.com/SGordilloDev) and follow our Algoritmo Salvaje project (https://twitter.com/AlgoritmoSalvaj) where we share a lot of information can be useful for your professional career as a software engineer. Hope it helps :wink:
+Did you like it? You can follow me on my professional Twitter (https://twitter.com/SGordilloDev) and follow our Algoritmo Salvaje project (https://twitter.com/AlgoritmoSalvaj) where we share a lot of information which can be useful for your professional career as a software engineer. Hope it helps :wink:
